@@ -3,3 +3,8 @@ Esta es la historia de Yair Garcia
 Yair Garcia tiene 44 años y nacio en puebla
 
 Hoy hablaremos de sus historia.
+
+se hacen estos cambios para valdiar el
+
+git checkout
+
